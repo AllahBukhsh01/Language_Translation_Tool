@@ -153,9 +153,9 @@ After running the command, the app will open automatically in your browser.
 
 ## 🧑‍💻 Author
 
-**Allah Bukhsh**
-**Portfolio:** https://allahbukhsh.lovable.app/
-**LinkedIn:** www.linkedin.com/in/allah-bukhsh-baloch   
+- **Allah Bukhsh**
+- **Portfolio:** https://allahbukhsh.lovable.app/
+- **LinkedIn:** www.linkedin.com/in/allah-bukhsh-baloch   
 
 ---
 
